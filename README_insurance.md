@@ -5,7 +5,7 @@ This project focuses on predicting customer churn in the insurance sector using 
 
 The goal is to help insurance companies improve customer retention, reduce revenue loss, and make proactive business decisions through data-driven insights.
 
-📂 Project Structure
+📂 Project 
 ├── insurance_customer_churn.csv    # Raw dataset
 ├── insurance_code.ipynb            # Data preprocessing, EDA, and model building
 ├── images/                         # Visualizations and plots
